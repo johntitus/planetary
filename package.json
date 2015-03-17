@@ -1,0 +1,22 @@
+{
+  "name": "planetary",
+  "version": "0.0.1",
+  "description": "A library to calculate planetary alignments.",
+  "main": "lib/index",
+  "scripts": {
+    "test": "make test"
+  },
+  "devDependencies": {
+    "mocha": "~1.17.1",
+    "should": "~2.1.1"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "keywords": [
+    "planet",
+    "alignment"
+  ],
+  "author": "John Titus <john.titus@gmail.com>",
+  "license": "MIT"
+}
